@@ -5,6 +5,7 @@
 [![codecov](https://codecov.io/gh/comsoc-community/pabutools/branch/main/graphs/badge.svg)](https://codecov.io/gh/comsoc-community/pabutools/tree/main)
 
 ## Overview
+As part of out academic course we implemented algorithms from article and merged them with the pabutools library
 
 The pabutools are a complete set of tools to work with
 participatory budgeting instances.
